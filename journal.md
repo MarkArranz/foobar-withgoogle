@@ -52,3 +52,9 @@
 ## Challenge 4.2: "Escape Pods"
 
     It's a good thing bunnies are relatively small and light. You're pretty sure they're packing the escape pods well past the legal maximum occupancy.
+
+## Level 4 Completed
+
+    Oh no! You escaped Commander Lambda's exploding space station -- but so did the Commander, and Lambda is definitely not happy with you. Lambda is chasing you in a heavily-armed starfighter, while you and the bunny workers are stuck in these lumbering escape pods. It'll take all your wits and cleverness to escape such a hare-y situation, so you'd better hop to it!
+
+# Level 5
